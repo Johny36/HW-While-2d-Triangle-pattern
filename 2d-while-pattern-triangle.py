@@ -13,10 +13,10 @@ print("\n")
 s = 1
 
 while s <= 5:
-    j = 1
-    while j <= s:
+    l = 1
+    while l <= s:
         print("*", end=" ")
-        j += 1
+        l += 1
     print()
     s += 1
 
