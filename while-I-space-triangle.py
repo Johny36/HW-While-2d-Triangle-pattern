@@ -5,7 +5,7 @@
 #   * * * *
 # * * * * *
 
-rows = 8
+rows = 5
 num = 1
 
 while num <= rows:
